@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "viacep",
+    "slug": "viacep",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
