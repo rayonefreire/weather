@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "viacep",
-    "slug": "viacep",
+    "name": "weather",
+    "slug": "weather",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
